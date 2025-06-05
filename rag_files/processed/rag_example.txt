@@ -1,0 +1,242 @@
+Perfil Profissional de Jaime Martins
+Nome completo: Jaime Martins de Oliveira Junior
+Título: Desenvolvedor Back-End | Especialista em NLP, IA Generativa e Automação
+Localização: Florianópolis, SC (disponível para mudanças temporárias ou definitivas, conforme projeto)
+E-mail: contato.jaimemartins@gmail.com
+Telefone: (48) 99635-4498
+LinkedIn: https://www.linkedin.com/in/jaime-martins-de-oliveira/
+GitHub: https://github.com/JaimeMartinsOliveira
+Portfólio Online: https://jaimemartins.tech (verificar status)
+
+🎯 Resumo Profissional e Visão
+Sou um desenvolvedor back-end com aproximadamente 3 anos de experiência, focado em Python (FastAPI, Django) e Java (Spring Boot). Minha especialidade reside no desenvolvimento de APIs RESTful, automações inteligentes, integração de sistemas e soluções inovadoras baseadas em IA, com ênfase em Processamento de Linguagem Natural (NLP), Recuperação Aumentada por Geração (RAG) e chatbots inteligentes (WhatsApp, Telegram).
+
+Minha jornada na programação começou em 2014, motivada pela curiosidade em modificar o jogo Minecraft (Java). Desde então, venho aprimorando minhas habilidades técnicas, aplicando-as em projetos que unem tecnologia e inovação para resolver problemas reais de negócio. Acredito que esforço consistente supera qualquer dom nato. Por isso, estou sempre estudando, aplicando e crescendo para criar soluções que impactem negócios e pessoas. Minha trajetória combina sólida base técnica, mentalidade ágil e proatividade.
+
+💼 Experiências Profissionais Relevantes
+Desenvolvedor Back-End Freelancer (Remoto | Jan/2023 – Presente)
+
+Atuação em plataformas como Workana e diretamente com clientes.
+
+Desenvolvimento de APIs RESTful e Microerviços:
+
+Utilizando Python (Django, FastAPI) e Java (Spring Boot).
+
+Implementação de autenticação JWT, OAuth2 e cache com Redis.
+
+Soluções de IA e NLP:
+
+Criação de chatbots inteligentes (WhatsApp, Telegram) com NLP e RAG para automação de vendas, suporte e consulta a bases de conhecimento.
+
+Aplicação de modelos de linguagem como LLaMA para soluções educacionais e classificação de textos.
+
+Desenvolvimento de Sistemas Diversos:
+
+Back-end para plataformas de e-commerce (catálogo, pedidos, pagamentos com webhooks).
+
+Sistemas de gestão de usuários (CRUD, segurança).
+
+Plataformas de streaming de vídeos (Spring Boot, AWS S3/MinIO, MongoDB).
+
+Sistemas de notificações em tempo real (RabbitMQ/Kafka).
+
+Automação de Processos:
+
+Integração com APIs externas e ERPs (Salesforce, Zendesk, Sankhya, Shopify, etc.).
+
+Desenvolvimento de scripts de automação (Python) e uso de ferramentas como Zapier e Make.
+
+Sales Operations Manager - 123Projetei (Nov/2023 – Mai/2024)
+
+Liderança em processos de vendas com análise de dados e automação via IA.
+
+Criação de chatbots para captação de leads, resultando em um aumento de +35% na conversão.
+
+Ferramentas: Python, Pandas, OpenAI API, Zapier.
+
+Analista de Dados - 123Projetei (Mai/2023 – Nov/2023)
+
+Análise de dados e machine learning para otimização de estratégias comerciais.
+
+Contribuição para a redução de 30% em custos operacionais e aumento de 20% na precisão das análises.
+
+Outras Experiências:
+
+Gestão de Negócios: Administração de loja de roupas, desenvolvendo visão estratégica e prática em processos de automação comercial.
+
+Soldado de Infantaria - Exército Brasileiro (Fev/2020 – Mar/2021): Experiência com disciplina, resiliência e trabalho em equipe.
+
+🧠 Projetos em Destaque
+ProfessorLLaMA (Chatbot Educacional com LLaMA e RAG)
+
+Descrição: Projeto open source que transforma o modelo LLaMA (v2) em um chatbot educacional focado no ensino de inglês. Expõe uma API robusta para integração com WhatsApp (via Evolution API) e aplicações web.
+
+Objetivo: Criar um assistente virtual que atue como professor de inglês, respondendo perguntas e fornecendo exemplos de frases e gramática contextualizados.
+
+Tecnologias: Python, FastAPI, PyTorch, Hugging Face Transformers, Redis, Docker, LangChain, Elasticsearch (para RAG avançado).
+
+Destaques e Desafios Superados:
+
+Adaptação do Modelo: Ajuste fino do LLaMA para um contexto educacional, com otimização de prompts e fluxos de conversa.
+
+Implementação de RAG: Utilização de RAG para buscar respostas em documentos adicionais (PDFs de gramática, conteúdo educacional), melhorando a relevância e precisão das respostas. Embeddings criados com LangChain.
+
+Integração com WhatsApp: Superação de desafios na autenticação e formatação de mensagens com APIs de terceiros. Criação de middleware de validação.
+
+Otimização de Recursos: Uso de quantização e cache (Redis) para gerenciar o consumo de memória de modelos grandes.
+
+GitHub (Referência similar): chatbot-whatsapp-python-puro (para a base da lógica de chatbot).
+
+Plataforma de E-commerce (Back-End Completo)
+
+Descrição: Desenvolvimento de um back-end robusto para gerenciar uma plataforma de e-commerce com funcionalidades completas.
+
+Tecnologias: Python, Django, Django REST Framework, PostgreSQL, Docker, JWT, Redis.
+
+Funcionalidades e Processo:
+
+Modelagem de dados (Produto, Pedido, Cliente) com Django ORM.
+
+Ambiente de desenvolvimento com Docker Compose.
+
+Autenticação JWT para segurança.
+
+Integração com gateways de pagamento via webhooks, com validação e logging para segurança e rastreabilidade.
+
+Catálogo de produtos, categorias, imagens, controle de estoque e processamento de pedidos.
+
+Administração eficiente via Django Admin.
+
+Desafios e Soluções:
+
+Confiabilidade de Webhooks: Endpoint seguro e dedicado para notificações de pagamento.
+
+Performance de Buscas: Otimização com índices em PostgreSQL e cache com Redis.
+
+API de Gestão de Usuários
+
+Descrição: API RESTful para gerenciamento completo de usuários (CRUD), autenticação e autorização, projetada para integração com microsserviços.
+
+Tecnologias: Python, Django, JWT, Redis, MySQL.
+
+Funcionalidades e Processo:
+
+Endpoints RESTful versionados.
+
+Autenticação JWT e autorização baseada em roles (perfis de usuário).
+
+Testes automatizados (Pytest, Django Test).
+
+Desafios e Soluções:
+
+Consistência de Dados: Uso de transações de banco de dados e validações.
+
+Performance de Leitura: Implementação de cache com Redis para otimizar endpoints.
+
+Classificador de Documentos Técnicos de Infraestrutura com NLP/Transformers
+
+Descrição: Ferramenta para classificar e organizar grandes volumes de documentos técnicos (contratos, relatórios de obras) em setores como energia, transporte e saneamento, utilizando NLP e Machine Learning.
+
+Objetivo: Apoiar a tomada de decisão em obras públicas e processos de gestão, transformando dados não estruturados em conhecimento organizado.
+
+Tecnologias: Python, Scikit-Learn, Hugging Face Transformers (BERT e equivalentes), NLTK/Spacy, Elasticsearch (para indexação e busca).
+
+Destaques e Desafios Superados:
+
+Processamento de Dados: Pipelines de NLP para limpeza, normalização (tokenização, lematização) e extração de entidades nomeadas (NER).
+
+Criação de Taxonomia e Classificação: Mapeamento e desenvolvimento de modelos de classificação multi-label para categorizar atividades (administrativas, operacionais, técnicas, financeiras, jurídicas).
+
+Ajuste Fino de Transformers: Personalização de modelos pré-treinados para identificar entidades e categorias específicas do domínio de infraestrutura.
+
+Performance e Escalabilidade: Otimização de queries e uso de indexação para lidar com grandes volumes de dados.
+
+Outros Projetos e Estudos (visíveis no GitHub):
+
+criacao-de-api-com-springwebflux: Estudo de desenvolvimento de APIs reativas com Java e Spring WebFlux.
+
+Java-Comprehensive-Cheatsheet e Python-Comprehensive-Cheatsheet: Guias de referência para as linguagens.
+
+Spring-Boot-3-Essential-Training-LinkedIn: Projetos e aprendizados do curso.
+
+automatizacao-de-processos-com-python: Exemplos de automação de tarefas (web scraping, manipulação de planilhas).
+
+Django-para-iniciantes e FastAPI-para-iniciantes: Materiais de estudo e exemplos básicos dos frameworks.
+
+🛠️ Habilidades Técnicas
+Linguagens Back-End:
+
+Python: FastAPI, Django, Flask
+
+Java: Spring Boot
+
+Banco de Dados:
+
+SQL: PostgreSQL, MySQ
+
+NoSQL: MongoDB, Redis
+
+NLP & IA Generativa:
+
+Modelos: Llama, GPT (OpenAI API), Claude, BERT
+
+Técnicas: RAG (Retrieval-Augmented Generation), Fine-tuning (conceitos)
+
+Frameworks/Bibliotecas: Hugging Face Transformers, LangChain, NLTK, Spacy, Rasa, TensorFlow, PyTorch
+
+Vector Stores: Elasticsearch, ChromaDB, FAISS (conhecimento)
+
+APIs e Mensageria:
+
+RESTful, Microserviços
+
+Apache Kafka, RabbitMQ
+
+Autenticação & Segurança: JWT, OAuth2, Spring Security
+
+DevOps & Containers: Docker, Docker Compose, Kubernetes (conhecimento inicial), Git, GitHub Actions (CI/CD básico)
+
+Frontend (Básico/Integração): JavaScript, TypeScript, Angular, HTML, CSS
+
+Ferramentas de Automação e ETL: Zapier, Make.com, Scripts Python
+
+BI e Dashboards: Power BI (iniciante/intermediário), Elastic Stack (ELK), Prometheus, Grafana
+
+Outros: Swagger/OpenAPI, TDD, Metodologias Ágeis (Scrum, Kanban)
+
+📚 Formação Acadêmica
+Tecnólogo em Análise e Desenvolvimento de Sistemas – UNISUL (Concluído em 2024)
+
+Engenharia de Software – PUC Minas (Cursando, previsão de conclusão em 2026)
+
+💡 Diferenciais e Soft Skills
+Resolvedor de Problemas com Visão de Negócio: Foco em entender e solucionar desafios reais, indo além da codificação.
+
+Aprendizado Contínuo e Adaptabilidade: Entusiasmo por novas tecnologias e capacidade de se adaptar a diferentes contextos.
+
+Autodidata e Inovador: Forte interesse em IA Generativa, automações e tendências tecnológicas.
+
+Proatividade e Autonomia: Capacidade de iniciar e conduzir projetos com responsabilidade.
+
+Comunicação Clara e Organização: Habilidade em transmitir ideias e gerenciar tarefas (uso de Trello, Notion).
+
+Colaboração e Espírito de Equipe: Foco em trabalho conjunto e troca de conhecimento.
+
+Visão de Dono e Curiosidade Técnica: Responsabilidade pelas entregas e desejo de aprofundar conhecimentos.
+
+🚀 Principais Conquistas e Áreas de Destaque
+✅ Liderança em Projetos de IA/NLP: Desenvolvimento ponta-a-ponta de chatbots inteligentes (WhatsApp/Telegram) com RAG, otimizando vendas, suporte e acesso à informação.
+
+✅ Arquitetura e Desenvolvimento de APIs Robustas: Criação de APIs seguras e escaláveis para e-commerce, gestão de usuários e integrações complexas.
+
+✅ Inovação com IA Generativa: Aplicação prática de modelos como Llama e técnicas de RAG para consultas avançadas em bases documentais.
+
+✅ Automação Eficaz de Processos: Implementação de soluções de automação que resultaram em ganhos de eficiência e redução de custos operacionais.
+
+✅ Sucesso em Integração de Sistemas: Experiência em conectar diversas plataformas (ERPs, CRMs, etc.) para fluxos de dados otimizados.
+
+✅ Tomada de Decisão Baseada em Dados: Desenvolvimento de dashboards e indicadores (BI) para monitoramento e análise de performance.
+
+✅ Agilidade e Entrega de Valor: Vivência com metodologias ágeis (Scrum, Kanban) para entregas rápidas e iterativas.
+
+Este perfil unificado deve fornecer uma base sólida e completa para o seu chatbot RAG, permitindo que ele responda de forma precisa e detalhada sobre suas competências e realizações.
