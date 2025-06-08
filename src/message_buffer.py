@@ -3,9 +3,9 @@ import redis.asyncio as redis
 
 from collections import defaultdict
 
-from config import REDIS_URL, BUFFER_KEY_SUFIX, DEBOUNCE_SECONDS, BUFFER_TTL
-from evolution_api import send_whatsapp_message
-from chains import get_conversational_rag_chain
+from src.config import REDIS_URL, BUFFER_KEY_SUFIX, DEBOUNCE_SECONDS, BUFFER_TTL
+from src.evolution_api import send_whatsapp_message
+from src.chains import get_conversational_rag_chain
 
 
 redis_client = redis.Redis.from_url(REDIS_URL, decode_responses=True)
