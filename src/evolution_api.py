@@ -1,6 +1,6 @@
 import requests
 
-from config import (
+from src.config import (
     EVOLUTION_API_URL,
     EVOLUTION_INSTANCE_NAME,
     EVOLUTION_AUTHENTICATION_API_KEY,
