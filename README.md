@@ -15,7 +15,7 @@ Este projeto é um chatbot para WhatsApp utilizando:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/pycodebr/whatsapp_ai_bot.git
+git clone [https://github.com/JaimeMartinsOliveira/whatsapp_ai_bot]
 cd whatsapp_ai_bot
 ```
 
