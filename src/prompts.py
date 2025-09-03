@@ -1,10 +1,5 @@
 from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
-
-from src.config import (
-    AI_CONTEXTUALIZE_PROMPT,
-    AI_SYSTEM_PROMPT,
-)
-
+from src.config import AI_CONTEXTUALIZE_PROMPT, AI_SYSTEM_PROMPT
 
 contextualize_prompt = ChatPromptTemplate.from_messages([
     ('system', AI_CONTEXTUALIZE_PROMPT),
